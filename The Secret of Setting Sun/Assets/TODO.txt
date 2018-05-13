@@ -1,0 +1,4 @@
+Basic Movement
+	* Send a raycast to detect what object is and if its moveable or not (ok)
+	* See where the player wants to move and if it should or not move
+	* Move the object
